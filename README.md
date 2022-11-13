@@ -1,1 +1,1 @@
-intech-iut
+gem "jekyll-theme-bootstrap-rtl"
