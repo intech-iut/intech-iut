@@ -2,15 +2,15 @@
 ### دانشگاه صنعتی اصفهان
 دانشکده برق و کامپیوتر
 
-<!-- ![iut logo](/assets/img/iut-logo.png) -->
+<!-- ![iut logo](/assets/iut-logo.png) -->
 <p>
 <img src="assets/img/iut-logo.png"  width="120" height="120">
 </p>
 
 # تیم اینتِک
 
-![intech logo](/assets/img/intech-logo.png)
-<img src="https://github.com/intech-iut/intech-iut.github.io/blob/main/assets/img/intech-logo.png"  width="200" height="100">
+![intech logo](/assets/intech-logo.png)
+<img src="https://github.com/intech-iut/intech-iut.github.io/blob/main/assets/intech-logo.png"  width="200" height="100">
 <p>
 <img src="assets/img/intech-logo.png"  width="200" height="100">
 </p>
