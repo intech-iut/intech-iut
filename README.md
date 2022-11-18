@@ -7,7 +7,6 @@
 <img src="assets/img/iut-logo.png"  width="120" height="120">
 </p>
 
-## منشور تیمی
 # تیم اینتِک
 
 ![intech logo](/assets/img/intech-logo.png)
