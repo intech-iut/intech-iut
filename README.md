@@ -9,7 +9,7 @@
 
 # تیم اینتِک
 
-![intech logo](/assets/intech-logo.png)
+<!-- ![intech logo](/assets/intech-logo.png) -->
 <img src="https://github.com/intech-iut/intech-iut.github.io/blob/main/assets/intech-logo.png"  width="200" height="100">
 <p>
 <img src="assets/img/intech-logo.png"  width="200" height="100">
